@@ -12,7 +12,7 @@ Libraries, frameworks and APIs used
 
 How to View This App
 ====
-Download the source code and open index.html in your browser.
+https://varshu-ramya.github.io/Udacity-project4-neighborhoodmap/.
 
 Helpful Resources
 ====
